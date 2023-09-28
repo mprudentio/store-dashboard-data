@@ -195,5 +195,11 @@
         "email":"yu@gmail.com",
         "uid":"dhdueje"
       }
+    ],
+    "categories":[
+      {
+      "id":1,
+      "category":"Vitamin"
+      }
     ]
   }
