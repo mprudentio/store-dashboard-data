@@ -1,206 +1,275 @@
 {
-    "products": [
-      {
-        "name": "OBH Combi Anak",
-        "category": "Obat Batuk Anak",
-        "price": "16000",
-        "stock": 10,
-        "id": 2
-        },
+  "products": [
+    {
+      "name": "OBH Combi Anak",
+      "category": "Obat Batuk Anak",
+      "price": "16000",
+      "stock": 9,
+      "uid": "exVW6gGFGmPVI3deJtFbqRZrHrI2",
+      "id": 2
+    },
+    {
+      "name": "OBH Combi dws b",
+      "category": "Obat Batuk",
+      "price": "20000",
+      "stock": 17,
+      "uid": "exVW6gGFGmPVI3deJtFbqRZrHrI2",
+      "id": 3
+    },
+    {
+      "name": "Mylanta",
+      "category": "Obat Maag",
+      "price": "41000",
+      "stock": 119,
+      "uid": "exVW6gGFGmPVI3deJtFbqRZrHrI2",
+      "id": 4
+    },
+    {
+      "name": "Sangobion",
+      "category": "Obat Darah Rendah",
+      "price": "17000",
+      "stock": 18,
+      "uid": "exVW6gGFGmPVI3deJtFbqRZrHrI2",
+      "id": 5
+    },
+    {
+      "name": "Curcumin",
+      "category": "Vitamin",
+      "price": "20000",
+      "stock": 8,
+      "uid": "exVW6gGFGmPVI3deJtFbqRZrHrI2",
+      "id": 7
+    },
+    {
+      "name": "Sakatonik ABC",
+      "category": "Vitamin",
+      "price": "40000",
+      "stock": 5,
+      "uid": "exVW6gGFGmPVI3deJtFbqRZrHrI2",
+      "id": 8
+    },
+    {
+      "name": "Minyak Angin",
+      "category": "Minyak",
+      "price": "33000",
+      "stock": 4,
+      "uid": "exVW6gGFGmPVI3deJtFbqRZrHrI2",
+      "id": 9
+    },
+    {
+      "name": "Makarizo",
+      "category": "Vitamin",
+      "price": "10000",
+      "stock": 2,
+      "uid": "exVW6gGFGmPVI3deJtFbqRZrHrI2",
+      "id": 11
+    },
+    {
+      "name": "Sakatonik Gummy",
+      "category": "Vitamin",
+      "price": "30000",
+      "stock": 5,
+      "uid": "exVW6gGFGmPVI3deJtFbqRZrHrI2",
+      "id": 12
+    }
+  ],
+  "sales": [
+    {
+      "date": "19/09/2023",
+      "price": "Rp 20000",
+      "products": [
         {
-        "name": "OBH Combi dws b",
-        "category": "Obat Batuk",
-        "price": "20000",
-        "stock": 16,
-        "id": 3
-        },
-        {
-        "name": "Mylanta",
-        "category": "Obat Maag",
-        "price": "41000",
-        "stock": 120,
-        "id": 4
-        },
-        {
-        "name": "Sangobion",
-        "category": "Obat Darah Rendah",
-        "price": "17000",
-        "stock": 17,
-        "id": 5
-        },
-        {
-        "name": "Curcumin",
-        "category": "Vitamin",
-        "price": "20000",
-        "stock": 6,
-        "id": 7
-        },
-        {
-        "name": "Sakatonik ABC",
-        "category": "Vitamin",
-        "price": "30000",
-        "stock": 3,
-        "id": 8
+          "name": "Curcumin",
+          "quantity": 1,
+          "price": "Rp 20000"
         }
-    ],
-    "sales": [
-      {
-        "date": "19/09/2023",
-        "price": "Rp 20000",
-        "products": [
+      ],
+      "uid": "exVW6gGFGmPVI3deJtFbqRZrHrI2",
+      "id": 9
+    },
+    {
+      "date": "19/09/2023",
+      "price": "Rp 40000",
+      "products": [
         {
-        "name": "Curcumin",
-        "quantity": 1,
-        "price": "Rp 20000"
+          "name": "Curcumin",
+          "quantity": 2,
+          "price": "Rp 40000"
         }
-        ],
-        "id": 9
-        },
+      ],
+      "uid": "exVW6gGFGmPVI3deJtFbqRZrHrI2",
+      "id": 10
+    },
+    {
+      "date": "19/09/2023",
+      "price": "Rp 68000",
+      "products": [
         {
-        "date": "19/09/2023",
-        "price": "Rp 40000",
-        "products": [
-        {
-        "name": "Curcumin",
-        "quantity": 2,
-        "price": "Rp 40000"
+          "name": "Sangobion",
+          "quantity": 4,
+          "price": "Rp 68000"
         }
-        ],
-        "id": 10
+      ],
+      "uid": "exVW6gGFGmPVI3deJtFbqRZrHrI2",
+      "id": 11
+    },
+    {
+      "date": "20/09/2023",
+      "price": "Rp 164000",
+      "products": [
+        {
+          "name": "Mylanta",
+          "quantity": 4,
+          "price": "Rp 164000"
         },
         {
-        "date": "19/09/2023",
-        "price": "Rp 51000",
-        "products": [
-        {
-        "name": "Sangobion",
-        "quantity": 3,
-        "price": "Rp 51000"
+          "name": "Kalpanax Krim",
+          "quantity": 1,
+          "price": "Rp 0"
         }
-        ],
-        "id": 11
-        },
+      ],
+      "uid": "exVW6gGFGmPVI3deJtFbqRZrHrI2",
+      "id": 12
+    },
+    {
+      "date": "18/09/2023",
+      "price": "Rp 40000",
+      "products": [
         {
-        "date": "20/09/2023",
-        "price": "Rp 194000",
-        "products": [
-        {
-        "name": "Mylanta",
-        "quantity": 4,
-        "price": "Rp 164000"
-        },
-        {
-        "name": "Kalpanax Krim",
-        "quantity": 2,
-        "price": "Rp 30000"
+          "name": "Sakatonik ABC",
+          "quantity": 1,
+          "price": "Rp 40000"
         }
-        ],
-        "id": 12
+      ],
+      "uid": "exVW6gGFGmPVI3deJtFbqRZrHrI2",
+      "id": 13
+    },
+    {
+      "date": "17/09/2023",
+      "price": "Rp 60000",
+      "products": [
+        {
+          "name": "Curcumin",
+          "quantity": 1,
+          "price": "Rp 20000"
         },
         {
-        "date": "18/09/2023",
-        "price": "Rp 60000",
-        "products": [
-        {
-        "name": "Sakatonik ABC",
-        "quantity": 2,
-        "price": "Rp 60000"
+          "name": "Sakatonik ABC",
+          "quantity": 1,
+          "price": "Rp 40000"
         }
-        ],
-        "id": 13
+      ],
+      "uid": "exVW6gGFGmPVI3deJtFbqRZrHrI2",
+      "id": 14
+    },
+    {
+      "date": "09/02/2023",
+      "price": "Rp 49000",
+      "products": [
+        {
+          "name": "Sangobion",
+          "quantity": 1,
+          "price": "Rp 17000"
         },
         {
-        "date": "17/09/2023",
-        "price": "Rp 80000",
-        "products": [
-        {
-        "name": "Curcumin",
-        "quantity": 1,
-        "price": "Rp 20000"
-        },
-        {
-        "name": "Sakatonik ABC",
-        "quantity": 2,
-        "price": "Rp 60000"
+          "name": "OBH Combi Anak",
+          "quantity": 2,
+          "price": "Rp 32000"
         }
-        ],
-        "id": 14
+      ],
+      "uid": "exVW6gGFGmPVI3deJtFbqRZrHrI2",
+      "id": 16
+    },
+    {
+      "date": "20/09/2023",
+      "price": "Rp 50000",
+      "products": [
+        {
+          "name": "Sangobion",
+          "quantity": 2,
+          "price": "Rp 34000"
         },
         {
-        "date": "16/09/2023",
-        "price": "Rp 72000",
-        "products": [
-        {
-        "name": "OBH Combi",
-        "quantity": 2,
-        "price": "Rp 72000"
+          "name": "OBH Combi Anak",
+          "quantity": 1,
+          "price": "Rp 16000"
         }
-        ],
-        "id": 15
+      ],
+      "uid": "exVW6gGFGmPVI3deJtFbqRZrHrI2",
+      "id": 17
+    },
+    {
+      "date": "25/09/2023",
+      "price": "Rp 202000",
+      "products": [
+        {
+          "name": "Mylanta",
+          "quantity": 2,
+          "price": "Rp 82000"
         },
         {
-        "date": "09/02/2023",
-        "price": "Rp 37000",
-        "products": [
-        {
-        "name": "Sangobion",
-        "quantity": 1,
-        "price": "Rp 17000"
-        },
-        {
-        "name": "OBH Combi Anak",
-        "quantity": 1,
-        "price": "Rp 20000"
+          "name": "Sakatonik ABC",
+          "quantity": 3,
+          "price": "Rp 120000"
         }
-        ],
-        "id": 16
-        },
+      ],
+      "uid": "exVW6gGFGmPVI3deJtFbqRZrHrI2",
+      "id": 18
+    },
+    {
+      "date": "29/09/2023",
+      "price": "Rp 30000",
+      "products": [
         {
-        "date": "20/09/2023",
-        "price": "Rp 74000",
-        "products": [
-        {
-        "name": "Sangobion",
-        "quantity": 2,
-        "price": "Rp 34000"
-        },
-        {
-        "name": "OBH Combi Anak",
-        "quantity": 2,
-        "price": "Rp 40000"
+          "name": "Sakatonik Gummy",
+          "quantity": 1,
+          "price": "Rp 30000"
         }
-        ],
-        "id": 17
-        },
-        {
-        "date": "25/09/2023",
-        "price": "Rp 101000",
-        "products": [
-        {
-        "name": "Mylanta",
-        "quantity": 1,
-        "price": "Rp 41000"
-        },
-        {
-        "name": "Sakatonik ABC",
-        "quantity": 2,
-        "price": "Rp 60000"
-        }
-        ],
-        "id": 18
-        }
-    ],
-    "users":[
-      {
-        "id":1,
-        "email":"yu@gmail.com",
-        "uid":"dhdueje"
-      }
-    ],
-    "categories":[
-      {
-      "id":1,
-      "category":"Vitamin"
-      }
-    ]
-  }
+      ],
+      "uid": "exVW6gGFGmPVI3deJtFbqRZrHrI2",
+      "id": 19
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "yu@gmail.com",
+      "uid": "dhdueje"
+    },
+    {
+      "email": "aaaa@gmail.com",
+      "uid": "dd",
+      "id": 2
+    },
+    {
+      "email": "v@gmail.com",
+      "uid": "FAj4T8dM2mXE3jdEAcmc72UpXY92",
+      "id": 3
+    },
+    {
+      "email": "test123@gmail.com",
+      "firstName": "test",
+      "lastName": "123",
+      "url": "https://firebasestorage.googleapis.com/v0/b/react-signin-29f77.appspot.com/o/images%2FforgotPass.png1696015278697exVW6gGFGmPVI3deJtFbqRZrHrI2?alt=media&token=9828e5de-731d-40c8-88d8-90c690100e36",
+      "uid": "exVW6gGFGmPVI3deJtFbqRZrHrI2",
+      "id": 4
+    },
+    {
+      "email": "k2@gmail.com",
+      "uid": "dNmK1VBJ5DPcjmny9WjMnMkeS0k1",
+      "id": 5
+    }
+  ],
+  "categories": [
+    {
+      "category": "Vitamin",
+      "uid": "exVW6gGFGmPVI3deJtFbqRZrHrI2",
+      "id": 1
+    },
+    {
+      "category": "Obat Batuk",
+      "uid": "exVW6gGFGmPVI3deJtFbqRZrHrI2",
+      "id": 2
+    }
+  ]
+}
